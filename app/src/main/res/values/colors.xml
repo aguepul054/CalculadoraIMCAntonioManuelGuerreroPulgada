@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#BCC0CC</color>
+    <color name="grey">#565656</color>
+    <color name="background_blue">#0D2C4B</color>
+    <color name="cv__blue">#0674D9</color>
+    <color name="middle_night">#121314</color>
+    <color name="bluemid">#3F51B5</color>
+    <color name="pulsadoGenre">#073E74</color>
+
+    <color name="bPeso">#FFEB3B</color>
+    <color name="nPeso">#8BC34A</color>
+    <color name="sPeso">#FFC107</color>
+    <color name="oPeso">#F44336</color>
+
+</resources>
